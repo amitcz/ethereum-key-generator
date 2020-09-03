@@ -1,0 +1,13 @@
+{
+  "name": "ethereum-key-generator",
+  "author": "codezeros",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "web3": "^1.2.6"
+  }
+}
